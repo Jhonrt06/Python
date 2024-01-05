@@ -1,0 +1,1 @@
+tupla= tuple(["dato1","dato2"])
